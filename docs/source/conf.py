@@ -6,6 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+import os
+import shutil
+
 project = 'GuGuDocs'
 copyright = '2024, pixel-Teee'
 author = 'pixel-Teee'
@@ -24,7 +27,7 @@ extensions = ['recommonmark']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 language = 'zh-CN'
