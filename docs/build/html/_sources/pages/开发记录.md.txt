@@ -1,0 +1,7 @@
+# 开发记录
+
+2.19 清理main.cpp入口(✔)
+
+修理string的const以及string转成utf32的方式()
+增加directx12()
+引入shader编译器()
