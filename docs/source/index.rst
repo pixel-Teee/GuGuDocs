@@ -11,6 +11,7 @@ Welcome to GuGuDocs's documentation!
    :caption: Contents:
 
    pages/开发记录
+   pages/创建窗口的问题
 
 Indices and tables
 ==================
